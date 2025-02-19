@@ -1,8 +1,8 @@
 public class FormDate {
 
-    public int day = 13;
+    public int day;
 
-    public int month = 6;
+    public int month;
 
-    public int year = 1999;
+    public int year;
 }
